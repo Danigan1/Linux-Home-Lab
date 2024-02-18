@@ -39,6 +39,9 @@ Another big reason for choosing Rocky Linux is its strong ties to the open-sourc
 
 ## Installation
 
+<img width="1792" alt="Screenshot 2024-02-18 at 4 07 26 PM" src="https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/6f2e30b7-832f-4920-b8e3-9d5a1ed0c55b">
+
+
 - **Download Rocky Linux ISO:** First, I downloaded the Rocky Linux ISO file from the official website 
 
 - **Install VirtualBox:** If I didn't have VirtualBox installed already, I went to the VirtualBox website and downloaded the appropriate version for my operating system. Then, I followed the installation instructions.
