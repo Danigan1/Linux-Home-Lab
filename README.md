@@ -15,7 +15,7 @@ Another reason for choosing Linux is its open-source nature. The vast community 
 
 
 ## Linux Distribution of choice
-So I've decided to dive into **Rocky Linux 9** for my Linux learning journey, and here's why.
+So I've decided to dive into **Rocky Linux version 9** for my Linux learning journey, and here's why.
 
 ![image](https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/43880a43-4f6e-41e4-992e-8825619fd0c3)
 
