@@ -120,3 +120,22 @@ In VirtualBox menu bar: `Devices > Insert Guest Additions CD Image…`
 Execute `VBoxLinuxAdditions.run`
 
 **Restart your virtual machine** 🔛
+
+<br>
+
+
+## Bash CLI introduction
+
+
+The first thing I most do is confirm I am actually using the bash shell since there are many shells out there.
+
+
+
+
+https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/cd3bb0f0-6fdf-4cf6-99bc-a0d3ae117b20
+
+<br>
+
+this showscases that we are **indeed** running the bash shell with a specified version
+
+
