@@ -74,3 +74,49 @@ Another big reason for choosing Rocky Linux is its strong ties to the open-sourc
 
 - **Reboot:** Once the installation was complete, I rebooted the virtual machine and logged in to my newly installed Rocky Linux system.
 
+
+# Drivers Installation needed
+
+So, after finishing setting up Rocky Linux on my virtual machine, I noticed that there were a few areas where I needed to enhance functionality to ensure smooth operation. Specifically, I needed to install some drivers to enable features like shared clipboard, drag and drop between the host machine and the Linux guest machine, eliminating any mouse offset issues, and setting up shared folders for seamless file sharing.
+
+Getting these drivers installed was crucial to improving the overall workflow and efficiency of my virtual machine setup. It took a bit of time and effort to set everything up just right, but once I got those drivers in place, everything ran much more smoothly between the host and guest machines.
+
+Overall, it was definitely worth the effort to enhance the functionality of my Rocky Linux virtual machine and make it a more seamless part of my workflow.
+
+what I did
+
+- updated the system
+- installed additional ways to fetch additional software
+- Then I updated the system again
+- Installed tools required to compile drivers (the drivers were there but were there in source code. They had to be turned into executable stuff that we can install)
+- installed drivers
+
+### Configuration Recap
+<br>
+
+ **1.) Update your system**
+<br>
+
+`sudo dnf update`
+
+If new updates were installed (in particular regarding the kernel) → **Restart your virtual machine** 🔛
+
+**2.) Install additional packages**
+<br>
+`sudo dnf install epel-release`
+
+**3.) Update your system again**
+<br>
+`sudo dnf update`
+
+**4.) Install additional tools**
+<br>
+`sudo dnf install gcc kernel-devel kernel-headers make bzip2 perl`
+
+**5.) Install the Guest Additions**
+<br>
+In VirtualBox menu bar: `Devices > Insert Guest Additions CD Image…`
+
+Execute `VBoxLinuxAdditions.run`
+
+**Restart your virtual machine** 🔛
