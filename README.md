@@ -14,3 +14,11 @@ Another reason for choosing Linux is its open-source nature. The vast community 
 
 
 
+## Linux Distribution of choice
+So I've decided to dive into **Rocky Linux 9** for my Linux learning journey, and here's why.
+
+![image](https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/43880a43-4f6e-41e4-992e-8825619fd0c3)
+
+- First and foremost, Rocky Linux is a community-driven, enterprise-grade Linux distribution designed to be a seamless replacement for CentOS. It's built to be rock-solid (pun intended) and stable, which is exactly what I need as I dive into learning Linux. Having that stability means I can focus on learning without worrying about frequent changes or instability.
+
+- Another big reason for choosing Rocky Linux is its strong ties to the open-source community and its close relationship with Red Hat Enterprise Linux (RHEL). Since it's a downstream rebuild of RHEL, I'll essentially be working with a free, community-supported version of RHEL. This is incredibly valuable because RHEL is widely used in enterprise environments, so learning on Rocky Linux means I'll be gaining skills that are directly transferable to real-world scenarios and job opportunities.
