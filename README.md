@@ -83,7 +83,7 @@ Getting these drivers installed was crucial to improving the overall workflow an
 
 Overall, it was definitely worth the effort to enhance the functionality of my Rocky Linux virtual machine and make it a more seamless part of my workflow.
 
-what I did
+**what I did:**
 
 - updated the system
 - installed additional ways to fetch additional software
