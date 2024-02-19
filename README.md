@@ -139,9 +139,6 @@ https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/cd3bb0f0-6fdf-4cf6-9
 this showscases that we are **indeed** running the bash shell with a specified version
 
 
-command = echo
-
-arguement= 'bash is amazing'
 
 ### key commands
 
@@ -161,4 +158,8 @@ option =  `-n`
 <br>
 
 
-`-n` = no line break
+`-n` - surpresses the line break that echo outputs by default. 
+
+`\n` - is supposed to **represet** a line break
+
+`-e` - will notice that there is a "backslash escape"   (special sequences of characters that begin with a backslash \ followed by another character)
