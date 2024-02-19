@@ -145,7 +145,7 @@ this showscases that we are **indeed** running the bash shell with a specified v
 `echo` - allows you to output text in the terminal
 <br>
 
-example: `echo 'bash is amazing'`
+**example:** `echo 'bash is amazing'`
 
 <br>
 
@@ -167,3 +167,25 @@ option =  `-n`
 <br>
 
 `pwd` - showcase the current directory you are on
+
+`cd` - change directories by going forward or backward
+
+**example:** 
+<br>
+`cd Desktop` = go into a directory that is within your current directoy
+<br>
+
+`cd ..` = go to previous directory
+<br>
+
+`cd /` = absolute path
+<br>
+`cd ~` = move me into home directory
+
+<br>
+
+
+`ls` - list the "contents" of your current directory
+
+
+
