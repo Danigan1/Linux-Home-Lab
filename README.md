@@ -140,6 +140,7 @@ this showscases that we are **indeed** running the bash shell with a specified v
 
 
 
+**key tip: folders are also known as directories*
 ### key commands
 
 `echo` - allows you to output text in the terminal
@@ -162,7 +163,9 @@ option =  `-n`
 
 `\n` - is supposed to **represet** a line break
 
-`-e` - will notice that there is a "backslash escape"   (special sequences of characters that begin with a backslash \ followed by another character)
+`-e` - will notice that there is a **"backslash escape"** such as **\n, \t, \b** and act on it   
+
+**backslash esapes:** special combinations of characters that begin with a backslash \ followed by another character
 
 <br>
 
@@ -180,12 +183,12 @@ option =  `-n`
 
 `cd /` = absolute path
 <br>
-`cd ~` = move me into home directory
+`cd ~` = move me into **(user)** home directory
 
 <br>
 
 
 `ls` - list the "contents" of your current directory
 
-
+`ls -a` - shows hidden files and folders 
 
