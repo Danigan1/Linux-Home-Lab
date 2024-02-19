@@ -163,3 +163,7 @@ option =  `-n`
 `\n` - is supposed to **represet** a line break
 
 `-e` - will notice that there is a "backslash escape"   (special sequences of characters that begin with a backslash \ followed by another character)
+
+<br>
+
+`pwd` - showcase the current directory you are on
