@@ -139,3 +139,8 @@ https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/cd3bb0f0-6fdf-4cf6-9
 this showscases that we are **indeed** running the bash shell with a specified version
 
 
+### key commands
+
+`echo` allows you to output text in the terminal
+
+
