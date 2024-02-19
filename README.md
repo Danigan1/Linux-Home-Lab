@@ -190,5 +190,8 @@ option =  `-n`
 
 `ls` - list the "contents" of your current directory
 
-`ls -a` - shows hidden files and folders 
+`ls -a` - lists any *hidden* files and folders **as well** as regular files/folder
 
+`ls -t` - sorts the list of files and folders by **modification time**, with recently modified first.
+
+`ls -r` - reverse option that reveres what is already in place
