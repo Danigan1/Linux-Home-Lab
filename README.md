@@ -141,6 +141,9 @@ this showscases that we are **indeed** running the bash shell with a specified v
 
 ### key commands
 
-`echo` allows you to output text in the terminal
+`echo` - allows you to output text in the terminal
+<br>
+
+example: `echo bash is amazing`
 
 
