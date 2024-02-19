@@ -152,9 +152,11 @@ example: `echo 'bash is amazing'`
 
 <br>
 
-command = echo
+command = `echo`
 
 arguement= everything after
+
+option =  `-n`
 
 <br>
 
