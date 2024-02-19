@@ -195,3 +195,36 @@ option =  `-n`
 `ls -t` - sorts the list of files and folders by **modification time**, with recently modified first.
 
 `ls -r` - reverse option that reveres what is already in place
+
+<br>
+
+### Absolute path vs relative path
+
+Absolute path 
+
+- starts with a / (root)
+- defines the **complete** path to a file/folder
+- it works everywhere no matter our current working directory
+<img width="1792" alt="Screenshot 2024-02-19 at 2 11 56 PM" src="https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/d7aae97e-6a68-4871-a546-eae70506cab3">
+
+<br>
+<br>
+Relative path
+
+-  A relative path specifies the location of a file or directory relative to the current working directory. **It does not start from the root directory**. Instead, it describes the location of the file or directory in relation to where you currently are in the file system.
+  
+- shorter and more convenient to use
+  
+**example:**
+
+if a start in Documents directory
+
+/home/dmbaabu/Documents
+
+Lets say I want to nagivate to Pictures directory
+
+i can do `cd ../Pictures`
+
+
+<img width="1792" alt="Screenshot 2024-02-19 at 2 07 47 PM" src="https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/dcaf353f-dc52-4a88-83a4-d7223ce9e8bf">
+
