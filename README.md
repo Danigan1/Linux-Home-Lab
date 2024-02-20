@@ -228,3 +228,6 @@ i can do `cd ../Pictures`
 
 <img width="1792" alt="Screenshot 2024-02-19 at 2 07 47 PM" src="https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/dcaf353f-dc52-4a88-83a4-d7223ce9e8bf">
 
+
+## Executing mulitple commands one after the other
+
