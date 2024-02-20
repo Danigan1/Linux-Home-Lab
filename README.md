@@ -231,3 +231,12 @@ i can do `cd ../Pictures`
 
 ## Executing mulitple commands one after the other
 
+This can be done by using the semicolon `;`
+
+and inputing multiple commands
+
+**Example:** I changed to the `root` directory then changed again to the `Desktop` directory and created a text file named `this.txt` with the word **hi** in it
+
+<img width="1792" alt="Screenshot 2024-02-20 at 1 38 08 PM" src="https://github.com/Danigan1/Linux-Home-Lab/assets/107498392/dad30ffd-f212-4cf1-abd1-f0dc507aec75">
+
+
